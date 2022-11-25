@@ -1,1 +1,3 @@
-echo "The school is open"
+["The school is open!"]en"]>school
+cat school
+echo [The school is open!]
